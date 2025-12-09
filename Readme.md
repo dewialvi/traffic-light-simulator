@@ -9,7 +9,7 @@ a simple traffic light UI built by react
 -> npm start
 
 ## 📸 Screenshot
-![Traffic Light UI](./docs/Screenshot (2730).png)
+![Traffic Light UI](./docs/Screenshot%20(2730).png)
 
 ## Requirements
 1. The light cycles in this order:
