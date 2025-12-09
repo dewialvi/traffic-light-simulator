@@ -20,15 +20,4 @@ a simple traffic light UI built by react
 5. Bonus: Use a **pure FSM model** (not just `setTimeout` chaining).
 6. Optional: Include a way to test edge cases like rapid pause/start or skipping frames (e.g. use `requestAnimationFrame` or simulate lag).
 
-## Evaluation Criteria:
-
-* **FSM Design**: Clear state model (`currentState`, `transitions`, etc.).
-* **Separation of Concerns**: State logic is not tightly coupled with UI rendering.
-* **Timer Management**: Proper timer cleanup, pauses, and resuming.
-* **Scalability**: Adding new states (e.g., pedestrian light) should be easy.
-* **Code Clarity**: Clean code, proper abstractions, and comments.
-
-## More Likely Behavior can be looked like this
-![Traffic Light](./docs/traffic-light.gif)
-# Good Luck Guys
 
